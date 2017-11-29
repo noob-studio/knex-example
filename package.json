@@ -1,0 +1,26 @@
+{
+  "name": "knex-example",
+  "version": "1.0.0",
+  "description": "example for using knex in ma blog noob-studio.github.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freeweed/knex-example.git"
+  },
+  "keywords": [
+    "knex.js"
+  ],
+  "author": "freeweed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freeweed/knex-example/issues"
+  },
+  "homepage": "https://github.com/freeweed/knex-example#readme",
+  "dependencies": {
+    "knex": "^0.14.2",
+    "mysql": "^2.15.0"
+  }
+}
